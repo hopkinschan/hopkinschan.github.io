@@ -1,0 +1,12 @@
+body {
+ margin: 0;
+ background: url(../img/background.jpg);
+ background-size: 1440px 800px;
+ background-repeat:no-repeat;
+ display: compact;
+}
+
+.jumbotron {
+   background: rgb(165, 167, 170); 
+   background: rgba(165, 167, 170, 0.5); 
+}
