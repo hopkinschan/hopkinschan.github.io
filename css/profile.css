@@ -9,3 +9,11 @@
 	margin-bottom: 10px;
 	box-shadow: 2px 2px 2px #cccccc
 }
+
+body {
+	background-color: #f7f5f4;
+}
+
+.jumbotron{
+    height: 100vh;
+}
